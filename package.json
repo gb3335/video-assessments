@@ -19,7 +19,7 @@
     "connect-busboy": "0.0.1",
     "csv-stringify": "0.0.3",
     "express": "^4.4.3",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.17",
     "serve-static": "^1.2.3"
   }
 }
